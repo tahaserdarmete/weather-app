@@ -34,6 +34,13 @@ A modern web application where users can view the weather for their current loca
 
 - OpenWeather API – Weather data
 
+
+## 🌐 Live Demo 
+
+https://app-weather01.netlify.app/
+
+
+
 ## 🖼️ ScreenShot
 
 <img src="weather.gif" />
