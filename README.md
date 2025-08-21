@@ -1,18 +1,18 @@
-#🌦️ Weather App
+# 🌦️ Weather App
 
 A modern web application where users can view the weather for their current location and also search for detailed weather information for any city.
 
 ## 🚀 Features
 
--📍 Get weather data based on your current location
+- 📍 Get weather data based on your current location
 
--🔎 Search by city name
+- 🔎 Search by city name
 
--🌡️ Current temperature information
+- 🌡️ Current temperature information
 
 - ↕️ Minimum & Maximum temperature
 
--💧 Humidity
+- 💧 Humidity
 
 - 🌬️ Wind speed
 
@@ -22,17 +22,17 @@ A modern web application where users can view the weather for their current loca
 
 - 🎨 Modern design with HTML, SCSS, and JavaScript
 
--📱 Responsive design (mobile, tablet, and desktop compatible)
+- 📱 Responsive design (mobile, tablet, and desktop compatible)
 
 ## 🛠️ Technologies Used
 
-HTML5 – Structure
+- HTML5 – Structure
 
-SCSS (Sass) – Modern style and responsive design
+- SCSS (Sass) – Modern style and responsive design
 
-JavaScript (Vanilla JS) – Dynamic data and API integration
+- JavaScript (Vanilla JS) – Dynamic data and API integration
 
-OpenWeather API – Weather data
+- OpenWeather API – Weather data
 
 ## 🖼️ ScreenShot
 
